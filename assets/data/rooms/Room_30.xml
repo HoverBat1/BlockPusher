@@ -1,0 +1,25 @@
+<room playlistFileName="Room_30" roomName="One Move" topLeftGridIndex="52" columnCount="4" rowCount="3" movesQualGold="1">
+  <imgNums count="12">
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>2</imgNum>
+    <imgNum>2</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+  </imgNums>
+  <blueIndices count="1">
+    <roomIndex>5</roomIndex>
+  </blueIndices>
+  <redIndices count="1">
+    <roomIndex>2</roomIndex>
+  </redIndices>
+  <bfTiles count="0"/>
+  <switchTiles count="0"/>
+  <orbs count="0"/>
+</room>

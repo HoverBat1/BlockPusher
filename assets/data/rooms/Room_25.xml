@@ -1,0 +1,80 @@
+<room playlistFileName="Room_25" roomName="Scattered" topLeftGridIndex="36" columnCount="7" rowCount="7" movesQualGold="8">
+  <imgNums count="49">
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>2</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>2</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+  </imgNums>
+  <blueIndices count="2">
+    <roomIndex>37</roomIndex>
+    <roomIndex>39</roomIndex>
+  </blueIndices>
+  <redIndices count="1">
+    <roomIndex>18</roomIndex>
+  </redIndices>
+  <bfTiles count="0"/>
+  <switchTiles count="0"/>
+  <orbs count="4">
+    <orb>
+      <gridIndex>119</gridIndex>
+      <roomIndex>38</roomIndex>
+    </orb>
+    <orb>
+      <gridIndex>69</gridIndex>
+      <roomIndex>15</roomIndex>
+    </orb>
+    <orb>
+      <gridIndex>88</gridIndex>
+      <roomIndex>25</roomIndex>
+    </orb>
+    <orb>
+      <gridIndex>56</gridIndex>
+      <roomIndex>11</roomIndex>
+    </orb>
+  </orbs>
+</room>

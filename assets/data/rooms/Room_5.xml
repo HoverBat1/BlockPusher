@@ -1,0 +1,85 @@
+<room playlistFileName="Room_5" roomName="Together" topLeftGridIndex="35" columnCount="8" rowCount="8" movesQualGold="9">
+  <imgNums count="64">
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>2</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>2</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+  </imgNums>
+  <blueIndices count="2">
+    <roomIndex>35</roomIndex>
+    <roomIndex>13</roomIndex>
+  </blueIndices>
+  <redIndices count="0"/>
+  <bfTiles count="0"/>
+  <switchTiles count="0"/>
+  <orbs count="2">
+    <orb>
+      <gridIndex>71</gridIndex>
+      <roomIndex>20</roomIndex>
+    </orb>
+    <orb>
+      <gridIndex>87</gridIndex>
+      <roomIndex>28</roomIndex>
+    </orb>
+  </orbs>
+</room>

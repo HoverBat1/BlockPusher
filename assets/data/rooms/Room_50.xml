@@ -1,0 +1,69 @@
+<room playlistFileName="Room_50" roomName="Claw" topLeftGridIndex="52" columnCount="7" rowCount="7" movesQualGold="4">
+  <imgNums count="49">
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>2</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+  </imgNums>
+  <blueIndices count="1">
+    <roomIndex>36</roomIndex>
+  </blueIndices>
+  <redIndices count="0"/>
+  <bfTiles count="1">
+    <bfTile gridIndex="88" roomIndex="18">
+      <sequenceIndices count="2">
+        <grid>72</grid>
+        <grid>87</grid>
+        <room>11</room>
+        <room>17</room>
+      </sequenceIndices>
+    </bfTile>
+  </bfTiles>
+  <switchTiles count="0"/>
+  <orbs count="0"/>
+</room>

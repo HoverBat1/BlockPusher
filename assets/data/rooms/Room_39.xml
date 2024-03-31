@@ -1,0 +1,115 @@
+<room playlistFileName="Room_39" roomName="Now You See Me 2" topLeftGridIndex="52" columnCount="8" rowCount="8" movesQualGold="4">
+  <imgNums count="64">
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>4</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>4</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+  </imgNums>
+  <blueIndices count="2">
+    <roomIndex>49</roomIndex>
+    <roomIndex>14</roomIndex>
+  </blueIndices>
+  <redIndices count="0"/>
+  <bfTiles count="0"/>
+  <switchTiles count="2">
+    <switchTile>
+      <gridIndex>149</gridIndex>
+      <roomIndex>49</roomIndex>
+      <outlineColor1>0</outlineColor1>
+      <outlineColor2>-1</outlineColor2>
+      <clients count="1">
+        <client>
+          <data>327</data>
+          <data>227</data>
+          <data>2</data>
+          <data>0</data>
+          <data>70</data>
+          <data>149</data>
+          <data>10</data>
+          <data>49</data>
+          <data>0</data>
+        </client>
+      </clients>
+    </switchTile>
+    <switchTile>
+      <gridIndex>74</gridIndex>
+      <roomIndex>14</roomIndex>
+      <outlineColor1>1</outlineColor1>
+      <outlineColor2>-1</outlineColor2>
+      <clients count="1">
+        <client>
+          <data>441</data>
+          <data>417</data>
+          <data>0</data>
+          <data>3</data>
+          <data>153</data>
+          <data>74</data>
+          <data>53</data>
+          <data>14</data>
+          <data>0</data>
+        </client>
+      </clients>
+    </switchTile>
+  </switchTiles>
+  <orbs count="0"/>
+</room>

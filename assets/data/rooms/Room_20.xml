@@ -1,0 +1,87 @@
+<room playlistFileName="Room_20" roomName="Catcher" topLeftGridIndex="36" columnCount="8" rowCount="8" movesQualGold="9">
+  <imgNums count="64">
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>2</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>2</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+  </imgNums>
+  <blueIndices count="2">
+    <roomIndex>49</roomIndex>
+    <roomIndex>14</roomIndex>
+  </blueIndices>
+  <redIndices count="1">
+    <roomIndex>27</roomIndex>
+  </redIndices>
+  <bfTiles count="0"/>
+  <switchTiles count="0"/>
+  <orbs count="2">
+    <orb>
+      <gridIndex>73</gridIndex>
+      <roomIndex>21</roomIndex>
+    </orb>
+    <orb>
+      <gridIndex>72</gridIndex>
+      <roomIndex>20</roomIndex>
+    </orb>
+  </orbs>
+</room>

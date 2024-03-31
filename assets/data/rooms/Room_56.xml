@@ -1,0 +1,113 @@
+<room playlistFileName="Room_56" roomName="Delay" topLeftGridIndex="34" columnCount="10" rowCount="8" movesQualGold="9">
+  <imgNums count="80">
+    <imgNum>99</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>99</imgNum>
+    <imgNum>99</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>99</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>99</imgNum>
+    <imgNum>99</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>2</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>99</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>99</imgNum>
+    <imgNum>99</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>99</imgNum>
+    <imgNum>99</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>99</imgNum>
+    <imgNum>99</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>99</imgNum>
+    <imgNum>99</imgNum>
+    <imgNum>99</imgNum>
+    <imgNum>99</imgNum>
+    <imgNum>99</imgNum>
+    <imgNum>99</imgNum>
+    <imgNum>99</imgNum>
+    <imgNum>99</imgNum>
+  </imgNums>
+  <blueIndices count="1">
+    <roomIndex>5</roomIndex>
+  </blueIndices>
+  <redIndices count="0"/>
+  <bfTiles count="1">
+    <bfTile gridIndex="87" roomIndex="35">
+      <sequenceIndices count="4">
+        <grid>86</grid>
+        <grid>71</grid>
+        <grid>88</grid>
+        <grid>103</grid>
+        <room>34</room>
+        <room>25</room>
+        <room>36</room>
+        <room>45</room>
+      </sequenceIndices>
+    </bfTile>
+  </bfTiles>
+  <switchTiles count="0"/>
+  <orbs count="2">
+    <orb>
+      <gridIndex>89</gridIndex>
+      <roomIndex>37</roomIndex>
+    </orb>
+    <orb>
+      <gridIndex>71</gridIndex>
+      <roomIndex>25</roomIndex>
+    </orb>
+  </orbs>
+</room>

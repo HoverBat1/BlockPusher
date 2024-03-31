@@ -1,0 +1,116 @@
+<room playlistFileName="Room_54" roomName="Instrument" topLeftGridIndex="35" columnCount="8" rowCount="8" movesQualGold="2">
+  <imgNums count="64">
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>2</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>4</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+  </imgNums>
+  <blueIndices count="2">
+    <roomIndex>54</roomIndex>
+    <roomIndex>49</roomIndex>
+  </blueIndices>
+  <redIndices count="0"/>
+  <bfTiles count="1">
+    <bfTile gridIndex="53" roomIndex="10">
+      <sequenceIndices count="2">
+        <grid>52</grid>
+        <grid>69</grid>
+        <room>9</room>
+        <room>18</room>
+      </sequenceIndices>
+    </bfTile>
+  </bfTiles>
+  <switchTiles count="1">
+    <switchTile>
+      <gridIndex>132</gridIndex>
+      <roomIndex>49</roomIndex>
+      <outlineColor1>0</outlineColor1>
+      <outlineColor2>-1</outlineColor2>
+      <clients count="2">
+        <client>
+          <data>289</data>
+          <data>379</data>
+          <data>0</data>
+          <data>3</data>
+          <data>133</data>
+          <data>132</data>
+          <data>50</data>
+          <data>49</data>
+          <data>0</data>
+        </client>
+        <client>
+          <data>327</data>
+          <data>379</data>
+          <data>0</data>
+          <data>3</data>
+          <data>134</data>
+          <data>132</data>
+          <data>51</data>
+          <data>49</data>
+          <data>0</data>
+        </client>
+      </clients>
+    </switchTile>
+  </switchTiles>
+  <orbs count="0"/>
+</room>

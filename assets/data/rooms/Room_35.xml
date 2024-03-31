@@ -1,0 +1,105 @@
+<room playlistFileName="Room_35" roomName="Tempting" topLeftGridIndex="35" columnCount="9" rowCount="8" movesQualGold="6">
+  <imgNums count="72">
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>99</imgNum>
+    <imgNum>99</imgNum>
+    <imgNum>99</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>99</imgNum>
+    <imgNum>99</imgNum>
+    <imgNum>99</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>4</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>0</imgNum>
+    <imgNum>2</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+    <imgNum>1</imgNum>
+  </imgNums>
+  <blueIndices count="1">
+    <roomIndex>43</roomIndex>
+  </blueIndices>
+  <redIndices count="1">
+    <roomIndex>49</roomIndex>
+  </redIndices>
+  <bfTiles count="0"/>
+  <switchTiles count="1">
+    <switchTile>
+      <gridIndex>133</gridIndex>
+      <roomIndex>56</roomIndex>
+      <outlineColor1>0</outlineColor1>
+      <outlineColor2>-1</outlineColor2>
+      <clients count="1">
+        <client>
+          <data>403</data>
+          <data>379</data>
+          <data>3</data>
+          <data>0</data>
+          <data>136</data>
+          <data>133</data>
+          <data>59</data>
+          <data>56</data>
+          <data>0</data>
+        </client>
+      </clients>
+    </switchTile>
+  </switchTiles>
+  <orbs count="0"/>
+</room>
